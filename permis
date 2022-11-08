@@ -1,1 +1,29 @@
-on commence le projet permis de conduire 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+
+  <head>
+    		<title>Premier fichier à mettre dans GitHub !</title>
+
+		<style>
+			h1{color:=#C0C0C0;}
+		</style>
+
+		<style>
+			h2{color:=#FFA07A;}
+		</style>
+
+  </head>
+
+
+
+
+  <body>
+
+  
+	 le formulaire pour code de la route
+			<h1> Nom</h1>
+			<h2> Prenom</h2>
+
+    
+  </body>
+</html>
